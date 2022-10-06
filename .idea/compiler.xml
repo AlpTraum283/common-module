@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="build-tools" />
+        <module name="core" />
+        <module name="common-services" />
+        <module name="common-dto" />
+        <module name="common-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="build-tools" target="1.5" />
+      <module name="common" target="11" />
+      <module name="common-dto" target="11" />
+      <module name="common-services" target="11" />
+      <module name="common-utils" target="11" />
+      <module name="core" target="1.5" />
+      <module name="dependency-management-bom" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/build-tools/build-tools.iml" filepath="$PROJECT_DIR$/build-tools/build-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common.iml" filepath="$PROJECT_DIR$/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dto/common-dto.iml" filepath="$PROJECT_DIR$/dto/common-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-services/common-services.iml" filepath="$PROJECT_DIR$/common-services/common-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency-management-bom/dependency-management-bom.iml" filepath="$PROJECT_DIR$/dependency-management-bom/dependency-management-bom.iml" />
+    </modules>
+  </component>
+</project>
