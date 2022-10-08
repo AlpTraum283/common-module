@@ -5,6 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/core/pom.xml" />
+        <option value="$PROJECT_DIR$/build-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/common-services/pom.xml" />
+        <option value="$PROJECT_DIR$/dependency-management-bom/pom.xml" />
+        <option value="$PROJECT_DIR$/common-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/dto/pom.xml" />
       </list>
     </option>
   </component>
