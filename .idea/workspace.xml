@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eea47b9-5a6d-4800-adaf-bb2578a500fc" name="Default Changelist" comment="" />
+    <list default="true" id="5eea47b9-5a6d-4800-adaf-bb2578a500fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-tools/target/build-tools-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build-tools/target/build-tools-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-tools/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build-tools/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-services/target/common-services-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-services/target/common-services-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-services/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common-services/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/target/common-dto-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dto/target/common-dto-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dto/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +102,7 @@
       <workItem from="1665214077218" duration="17000" />
       <workItem from="1665215969755" duration="1939000" />
       <workItem from="1665218159829" duration="1750000" />
+      <workItem from="1666257095272" duration="205000" />
     </task>
     <servers />
   </component>
