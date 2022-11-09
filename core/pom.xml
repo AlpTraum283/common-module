@@ -5,7 +5,6 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-	
     <parent>
         <artifactId>dependency-management-bom</artifactId>
         <groupId>liga.medical</groupId>
